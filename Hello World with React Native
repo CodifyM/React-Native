@@ -1,0 +1,18 @@
+import React from 'react';
+import { Text, View } from 'react-native';
+
+
+
+const doSomething = () => {
+
+return (
+
+<view>
+<Text>Hello its me</Text>
+<Text>Hello its me</Text>
+</view>
+)
+
+}
+
+export default doSomething;
