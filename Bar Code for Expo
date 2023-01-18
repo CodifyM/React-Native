@@ -4,3 +4,6 @@ Notes
 
 To start the app, and have the bar code, write following command on terminal:
 npm start
+
+before this u need to navigate to the folder where the app is situated, eg:
+C:\Users\Anoop Kumar\RNcourse
