@@ -1,0 +1,15 @@
+# React-Native
+Notes
+
+
+import { StatusBar } from 'expo-status-bar';
+import { StyleSheet, Text, View, Button } from 'react-native';
+
+export default function App() {
+  return (
+    <View>
+      <View></View>
+      <View></View>
+    </View>
+  );
+}
